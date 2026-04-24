@@ -2,7 +2,7 @@
 
 import { useState, useRef, useEffect } from 'react'
 
-// ─── Types ────────────────────────────────────────────────────────────────────
+// ─── Type s ────────────────────────────────────────────────────────────────────
 
 interface EmailRecord {
   [key: string]: string
